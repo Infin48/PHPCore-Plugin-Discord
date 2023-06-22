@@ -1,0 +1,13 @@
+{
+    "name": "Discord plugin",
+    "desc": "Přidá discord widget na postraní panel.",
+    "info": "Oficiální plugin pro aplikaci PHPCore. Webová stránka pluginu <a href=\"https://phpcore.cz/addon/plugin/discord/\" target=\"_blank\">zde</a>.<br><strong>Pokud naleznete chybu nebo plugin nebude správně fungovat, co nejdříve prosím nahlašte tuto skutečnost na <a href=\"https://phpcore.cz/forum/\" target=\"_blank\">fóru</a> nebo našem Discord serveru.</strong>",
+    "version": {
+        "version": "2.0.0",
+        "system": ["2.0.0"]
+    },
+    "author": {
+        "name": "Infin48",
+        "link": "https://github.com/Infin48"
+    }
+}

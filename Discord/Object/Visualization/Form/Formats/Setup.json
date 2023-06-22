@@ -1,0 +1,43 @@
+{
+    "body": {
+        "discord": {
+            "data": {
+                "button": {
+                    "submit": {
+                        "value": "L_BTN.L_SUBMIT",
+                        "name": "submit",
+                        "type": "submit"
+                    }
+                }
+            },
+            "body": {
+                "setup": {
+                    "data": {
+                        "title": "Discord.L_EDIT"
+                    },
+                    "body": {
+                        "server_id": {
+                            "options": {
+                                "type": "text"
+                            },
+                            "data": {
+                                "title": "Discord.L_SERVER_ID",
+                                "placeholder": "Discord.L_PLACEHOLDER.L_ID"
+                            }
+                        },
+                        "height": {
+                            "options": {
+                                "type": "number"
+                            },
+                            "data": {
+                                "title": "Discord.L_HEIGHT",
+                                "desc": "Discord.L_HEIGHT_DESC",
+                                "placeholder": "Discord.L_PLACEHOLDER.L_HEIGHT"
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
